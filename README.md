@@ -46,9 +46,9 @@
 \- **Python:** [Alexa Skills Kit SDK for Python](https://github.com/alexa/alexa-skills-kit-sdk-for-python)  
 \- **C# / .NET:** [Alexa Skills SDK for .NET](https://github.com/timheuer/alexa-skills-dotnet)   
 \- **Ruby:** [https://github.com/sjmog/ralyxa](https://github.com/sjmog/ralyxa)  
-\- **Jovo:** [Jovo Framework for cross-platform building](https://www.jovo.tech/)
-\- **Jargon SDK:** [Helps voice applications manage content and reach global users](https://jargon.com/sdk/)
-\- [Flask-Ask Alexa Skills kit for Python](https://github.com/johnwheeler/flask-ask)
+\- **Jovo:** [Jovo Framework for cross-platform building](https://www.jovo.tech/)  
+\- **Jargon SDK:** [Helps voice applications manage content and reach global users](https://jargon.com/sdk/)  
+\- [Flask-Ask Alexa Skills kit for Python](https://github.com/johnwheeler/flask-ask)  
 \- [Creating SSML (Speech Synthesis Markup Language) using the builder pattern](https://github.com/mandnyc/ssml-builder)  
 
 **Tools**  
